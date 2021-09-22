@@ -1,3 +1,3 @@
-module waytogo
+module theWayToGo
 
 go 1.17
